@@ -1,4 +1,4 @@
-# Santi's Small Summation Library
+# Santi's Powerful Product Series Library
 
 [![Build Status](https://github.com/santi100a/product-series/actions/workflows/ci.yml/badge.svg)](https://github.com/santi100a/product-series/actions)
 [![npm homepage](https://img.shields.io/npm/v/@santi100/product-series)](https://npmjs.org/package/@santi100/product-series)
