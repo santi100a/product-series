@@ -38,7 +38,7 @@
 
 ```typescript
 import product from '@santi100/product-series'; // ESM
-import product = require('@santi100/product-series'); // ESM TypeScript
+import product = require('@santi100/product-series'); // TypeScript
 const product = require('@santi100/product-series'); // CJS
 
 // Example 1: Product of numbers in an array
