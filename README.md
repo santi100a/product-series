@@ -32,12 +32,13 @@
   | `start` | `number`                | Inclusive start of the range.                          | No        |
   | `end`   | `number`                | Inclusive end of the range.                            | No        |
 
-  Returns the product of [`start`, `end`] with a step of `step`.
+  Returns the product of [`start`, `end`].
 
 ## Usage
 
 ```typescript
 import product from '@santi100/product-series'; // ESM
+import product = require('@santi100/product-series'); // ESM TypeScript
 const product = require('@santi100/product-series'); // CJS
 
 // Example 1: Product of numbers in an array
