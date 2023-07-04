@@ -9,6 +9,7 @@
 - 📘 Comes with built-in TypeScript definitions
 - 🚀 Lightweight and fast
 - 👴 Compliant with ECMAScript 3
+- 💻 Portable between Node and the browser
 
 ## API
 
